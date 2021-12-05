@@ -3,7 +3,7 @@ let DataAtual = (05/12/2021)
 let DataEvento = (12/12/2021)
 
 if (DataAtual>DataEvento){
-    console.log("Não é possivel cadastrar o evento, dta inválida")
+    console.log("Não é possivel cadastrar o evento, data inválida")
 } else {
     console.log("Evento cadastrado!")
 }
